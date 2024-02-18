@@ -1,7 +1,4 @@
-#loginsample
-**The login Angular sample, its a template for future projects
-
-**The login page**
+**Login Angular sample, its a template for future projects**
 
 <br><br>
 Login Page :
