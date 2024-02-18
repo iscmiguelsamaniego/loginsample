@@ -6,5 +6,5 @@
 <br><br>
 Login Page :
 <br><br>
-<img src="https://github.com/iscmiguelsamaniego/loginsample/assets/11413770/7d8c159a-b94b-4176-8916-faf9d78dbcdb" width="400" height="600">
+<img src="https://github.com/iscmiguelsamaniego/loginsample/assets/11413770/7d8c159a-b94b-4176-8916-faf9d78dbcdb" width="600" height="400">
 <br><br>
