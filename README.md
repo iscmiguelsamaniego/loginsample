@@ -3,5 +3,8 @@
 <br><br>
 Login Page :
 <br><br>
-<img src="https://github.com/iscmiguelsamaniego/loginsample/assets/11413770/7d8c159a-b94b-4176-8916-faf9d78dbcdb" width="450" height="250">
+<img src="https://github.com/iscmiguelsamaniego/loginsample/assets/11413770/87af738c-e627-4b62-80f8-ad74b9c932de" width="800" height="600">
+
+
+
 <br><br>
